@@ -32,7 +32,7 @@ module.exports = class Loop extends Interaction {
       .setLabel("Support")
         .setEmoji(`954350666539753512`)
       .setStyle("LINK")
-          .setURL(`https://discord.gg/whJeF4mDAX`);
+          .setURL(`https://discord.gg/WmuqXrYAW9`);
 
     const btn2 = new MessageButton()
       .setLabel("Invite")
