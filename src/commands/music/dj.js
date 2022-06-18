@@ -71,7 +71,7 @@ module.exports = class Roles extends Interaction {
             data.djRoles.push(role.id);
             await data.save();
 
-const djadded = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremeadd")} **Added <@&${role.id}> role to the DJ roles list!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Use: \`/play\` [song/url](https://aromaxdev.xyz/github) to play a music.`)
+const djadded = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremeadd")} **Added <@&${role.id}> role to the DJ roles list!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Use: \`/play\` [song/url](lol.com) to play a music.`)
   .setColor(`#FFFFFF`);
           
             return int.reply({

@@ -44,7 +44,7 @@ const btn1 = new MessageButton()
       .setLabel("Support")
         .setEmoji(`954350666539753512`)
       .setStyle("LINK")
-          .setURL(`https://discord.gg/whJeF4mDAX`);
+          .setURL(`https://discord.gg/WmuqXrYAW9`);
 
     const btn2 = new MessageButton()
       .setLabel("Invite")
@@ -141,13 +141,13 @@ if (types === "hindi") {
 
     let channel = int.member.voice.channel;
 
-const novc = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremenomusic")} **You should be in a voice channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Atreya#2401](https://aromaxdev.xyz/github)`)
+const novc = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremenomusic")} **You should be in a voice channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Abn Dctor](lol.com)`)
   .setColor(`#FFFFFF`);
 
-      const novcs = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremenomusic")} **You should be in a my voice channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Atreya#2401](https://aromaxdev.xyz/github)`)
+      const novcs = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremenomusic")} **You should be in a my voice channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Abn Dctor](lol.com)`)
   .setColor(`#FFFFFF`);
 
-      const nodj = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremedj")} **You should be a DJ or Alone in Voice Channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Atreya#2401](https://aromaxdev.xyz/github)`)
+      const nodj = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremedj")} **You should be a DJ or Alone in Voice Channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Abn Dctor](lol.com)`)
   .setColor(`#FFFFFF`);
       
     if (!channel)

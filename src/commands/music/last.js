@@ -14,7 +14,7 @@ const btn1 = new MessageButton()
       .setLabel("Support")
         .setEmoji(`954350666539753512`)
       .setStyle("LINK")
-          .setURL(`https://discord.gg/whJeF4mDAX`);
+          .setURL(`https://discord.gg/WmuqXrYAW9`);
 
     const btn2 = new MessageButton()
       .setLabel("Invite")
@@ -25,23 +25,23 @@ const btn1 = new MessageButton()
 let buttonList = [btn1, btn2];
 const row = new MessageActionRow().addComponents(buttonList);
 
-const novc = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremenomusic")} **You should be in a voice channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Atreya#2401](https://aromaxdev.xyz/github)`)
+const novc = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremenomusic")} **You should be in a voice channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Abn Dctor](lol.com)`)
   .setColor(`#FFFFFF`);
 
-      const novcs = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremenomusic")} **You should be in a my voice channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Atreya#2401](https://aromaxdev.xyz/github)`)
+      const novcs = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremenomusic")} **You should be in a my voice channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Abn Dctor](lol.com)`)
   .setColor(`#FFFFFF`);
 
-      const nodj = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremedj")} **You should be a DJ or Alone in Voice Channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Atreya#2401](https://aromaxdev.xyz/github)`)
+      const nodj = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremedj")} **You should be a DJ or Alone in Voice Channel!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Developer: [Abn Dctor](lol.com)`)
   .setColor(`#FFFFFF`);
       
-      const nomusic = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremenomusic")} **Nothing is playing in this server!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Use: \`/play\` [song/url](https://aromaxdev.xyz/github) to play a music.`)
+      const nomusic = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremenomusic")} **Nothing is playing in this server!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremedot")} Use: \`/play\` [song/url](lol.com) to play a music.`)
   .setColor(`#FFFFFF`);
 
 
-       const ltrack = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremeserror")} **There isn't any last song!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremelink")} Support: [Server](https://aromaxdev.xyz/discord)`)
+       const ltrack = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremeserror")} **There isn't any last song!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremelink")} Support: [Server](lol.com)`)
   .setColor(`#FFFFFF`);
 
-      const added = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremeserver")} **Added recently played song in queue!!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremelink")} Support: [Server](https://aromaxdev.xyz/discord)`)
+      const added = new MessageEmbed() .setDescription(`${this.client.emotes.get("supremeserver")} **Added recently played song in queue!!** \n ${this.client.emotes.get("supremeblank")}${this.client.emotes.get("supremelink")} Support: [Server](lol.com)`)
   .setColor(`#FFFFFF`);
       
     let channel = int.member.voice.channel;
